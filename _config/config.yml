@@ -1,0 +1,6 @@
+---
+Name: silvershop-usp
+---
+SilverStripe\SiteConfig\SiteConfig:
+  extensions:
+    - SilverShop\Usp\UspSiteConfigExtension
