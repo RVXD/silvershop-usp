@@ -1,4 +1,4 @@
-# silvershop/usp
+# silvershop-suite/usp
 
 CMS-managed **USPs, trust signals and an announcement / promo bar** for SilverStripe. It lifts the shop's value
 propositions and promo messaging out of the theme and into the CMS, so a merchant edits them without touching
@@ -31,7 +31,7 @@ Already using Elemental? The globals and includes work inside any Elemental bloc
 ## Install
 
 ```bash
-composer require silvershop/usp
+composer require silvershop-suite/usp
 ```
 
 Run `dev/build?flush=1`, then manage items under **CMS → USPs** and the bar behaviour under
